@@ -1,0 +1,16 @@
+﻿Product Type,Gender,CVS,Rite Aid,Walgreens,Walmart,Product Total
+Body Wash,Female,4,2,4,0,10
+Body Wash,Male,4,2,4,0,10
+Deodorant,Female,2,3,5,0,10
+Deodorant,Male,2,3,5,0,10
+Hair Care,Female,1,0,3,3,7
+Hair Care,Male,1,0,3,3,7
+Lotion,Female,2,0,4,1,7
+Lotion,Male,2,0,4,1,7
+Razor,Female,3,3,5,0,11
+Razor,Male,3,3,5,0,11
+Razor Cartridges,Female,2,3,2,2,9
+Razor Cartridges,Male,2,3,2,2,9
+Shaving Cream,Female,2,1,3,4,10
+Shaving Cream,Male,2,1,3,4,10
+Retailer Total,,32,24,52,20,128
