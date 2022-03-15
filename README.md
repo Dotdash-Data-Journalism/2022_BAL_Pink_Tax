@@ -2,7 +2,7 @@
 
 The `data` folder in this repository contains a CSV of prices of various personal care products marketed to men and women. This CSV was hand constrcuted by The Balance from 2022-03-09 to 2022-03-10 used for the analysis in the pink tax article. The `visualizations` folder contains CSVs of the [Datawrapper](https://www.datawrapper.de/) bar charts and table used in The Balance's [pink tax article](https://www.thebalance.com/pink-tax-pushes-prices-up-nearly-13-percent-study-finds-5222209).
 
-The `methodology_screenshots` folder contains all the PNG screenshots referenced in the pink tax article methodology.
+The `methodology_screenshots` folder contains all the PNG screenshots referenced by superscript in the pink tax article methodology below.
 
 
 # Methodology
